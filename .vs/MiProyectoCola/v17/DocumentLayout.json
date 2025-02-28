@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno\\Desktop\\BusquedaAlgoritmos\\MiProyectoCola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F38E4D-B9E7-4698-96D8-15ED7ABB217B}|MiProyectoCola\\MiProyectoCola.csproj|c:\\users\\alumno\\desktop\\busquedaalgoritmos\\miproyectocola\\miproyectocola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F38E4D-B9E7-4698-96D8-15ED7ABB217B}|MiProyectoCola\\MiProyectoCola.csproj|solutionrelative:miproyectocola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F38E4D-B9E7-4698-96D8-15ED7ABB217B}|MiProyectoCola\\MiProyectoCola.csproj|c:\\users\\alumno\\desktop\\busquedaalgoritmos\\miproyectocola\\miproyectocola\\services\\sqsqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F38E4D-B9E7-4698-96D8-15ED7ABB217B}|MiProyectoCola\\MiProyectoCola.csproj|solutionrelative:miproyectocola\\services\\sqsqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F38E4D-B9E7-4698-96D8-15ED7ABB217B}|MiProyectoCola\\MiProyectoCola.csproj|c:\\users\\alumno\\desktop\\busquedaalgoritmos\\miproyectocola\\miproyectocola\\services\\rabbitmqqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F38E4D-B9E7-4698-96D8-15ED7ABB217B}|MiProyectoCola\\MiProyectoCola.csproj|solutionrelative:miproyectocola\\services\\rabbitmqqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F38E4D-B9E7-4698-96D8-15ED7ABB217B}|MiProyectoCola\\MiProyectoCola.csproj|c:\\users\\alumno\\desktop\\busquedaalgoritmos\\miproyectocola\\miproyectocola\\services\\iqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F38E4D-B9E7-4698-96D8-15ED7ABB217B}|MiProyectoCola\\MiProyectoCola.csproj|solutionrelative:miproyectocola\\services\\iqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F38E4D-B9E7-4698-96D8-15ED7ABB217B}|MiProyectoCola\\MiProyectoCola.csproj|c:\\users\\alumno\\desktop\\busquedaalgoritmos\\miproyectocola\\miproyectocola\\services\\azurequeueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F38E4D-B9E7-4698-96D8-15ED7ABB217B}|MiProyectoCola\\MiProyectoCola.csproj|solutionrelative:miproyectocola\\services\\azurequeueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F38E4D-B9E7-4698-96D8-15ED7ABB217B}|MiProyectoCola\\MiProyectoCola.csproj|c:\\users\\alumno\\desktop\\busquedaalgoritmos\\miproyectocola\\miproyectocola\\manager\\queuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F38E4D-B9E7-4698-96D8-15ED7ABB217B}|MiProyectoCola\\MiProyectoCola.csproj|solutionrelative:miproyectocola\\manager\\queuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F38E4D-B9E7-4698-96D8-15ED7ABB217B}|MiProyectoCola\\MiProyectoCola.csproj|c:\\users\\alumno\\desktop\\busquedaalgoritmos\\miproyectocola\\miproyectocola\\miproyectocola.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8F38E4D-B9E7-4698-96D8-15ED7ABB217B}|MiProyectoCola\\MiProyectoCola.csproj|solutionrelative:miproyectocola\\miproyectocola.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QueueManager.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\BusquedaAlgoritmos\\MiProyectoCola\\MiProyectoCola\\Manager\\QueueManager.cs",
+              "RelativeDocumentMoniker": "MiProyectoCola\\Manager\\QueueManager.cs",
+              "ToolTip": "C:\\Users\\alumno\\Desktop\\BusquedaAlgoritmos\\MiProyectoCola\\MiProyectoCola\\Manager\\QueueManager.cs",
+              "RelativeToolTip": "MiProyectoCola\\Manager\\QueueManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:56:31.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MiProyectoCola.csproj",
+              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\BusquedaAlgoritmos\\MiProyectoCola\\MiProyectoCola\\MiProyectoCola.csproj",
+              "RelativeDocumentMoniker": "MiProyectoCola\\MiProyectoCola.csproj",
+              "ToolTip": "C:\\Users\\alumno\\Desktop\\BusquedaAlgoritmos\\MiProyectoCola\\MiProyectoCola\\MiProyectoCola.csproj",
+              "RelativeToolTip": "MiProyectoCola\\MiProyectoCola.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T15:55:46.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AzureQueueService.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\BusquedaAlgoritmos\\MiProyectoCola\\MiProyectoCola\\Services\\AzureQueueService.cs",
+              "RelativeDocumentMoniker": "MiProyectoCola\\Services\\AzureQueueService.cs",
+              "ToolTip": "C:\\Users\\alumno\\Desktop\\BusquedaAlgoritmos\\MiProyectoCola\\MiProyectoCola\\Services\\AzureQueueService.cs",
+              "RelativeToolTip": "MiProyectoCola\\Services\\AzureQueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:55:42.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqsQueueService.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\BusquedaAlgoritmos\\MiProyectoCola\\MiProyectoCola\\Services\\SqsQueueService.cs",
+              "RelativeDocumentMoniker": "MiProyectoCola\\Services\\SqsQueueService.cs",
+              "ToolTip": "C:\\Users\\alumno\\Desktop\\BusquedaAlgoritmos\\MiProyectoCola\\MiProyectoCola\\Services\\SqsQueueService.cs",
+              "RelativeToolTip": "MiProyectoCola\\Services\\SqsQueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:55:17.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RabbitMqQueueService.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\BusquedaAlgoritmos\\MiProyectoCola\\MiProyectoCola\\Services\\RabbitMqQueueService.cs",
+              "RelativeDocumentMoniker": "MiProyectoCola\\Services\\RabbitMqQueueService.cs",
+              "ToolTip": "C:\\Users\\alumno\\Desktop\\BusquedaAlgoritmos\\MiProyectoCola\\MiProyectoCola\\Services\\RabbitMqQueueService.cs",
+              "RelativeToolTip": "MiProyectoCola\\Services\\RabbitMqQueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:54:59.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IQueueService.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\BusquedaAlgoritmos\\MiProyectoCola\\MiProyectoCola\\Services\\IQueueService.cs",
+              "RelativeDocumentMoniker": "MiProyectoCola\\Services\\IQueueService.cs",
+              "ToolTip": "C:\\Users\\alumno\\Desktop\\BusquedaAlgoritmos\\MiProyectoCola\\MiProyectoCola\\Services\\IQueueService.cs",
+              "RelativeToolTip": "MiProyectoCola\\Services\\IQueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:54:30.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\BusquedaAlgoritmos\\MiProyectoCola\\MiProyectoCola\\Program.cs",
+              "RelativeDocumentMoniker": "MiProyectoCola\\Program.cs",
+              "ToolTip": "C:\\Users\\alumno\\Desktop\\BusquedaAlgoritmos\\MiProyectoCola\\MiProyectoCola\\Program.cs",
+              "RelativeToolTip": "MiProyectoCola\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA3wBYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:53:14.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

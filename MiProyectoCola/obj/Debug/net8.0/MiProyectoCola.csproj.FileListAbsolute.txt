@@ -1,0 +1,14 @@
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\MiProyectoCola\MiProyectoCola\bin\Debug\net8.0\MiProyectoCola.exe
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\MiProyectoCola\MiProyectoCola\bin\Debug\net8.0\MiProyectoCola.deps.json
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\MiProyectoCola\MiProyectoCola\bin\Debug\net8.0\MiProyectoCola.runtimeconfig.json
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\MiProyectoCola\MiProyectoCola\bin\Debug\net8.0\MiProyectoCola.dll
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\MiProyectoCola\MiProyectoCola\bin\Debug\net8.0\MiProyectoCola.pdb
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\MiProyectoCola\MiProyectoCola\obj\Debug\net8.0\MiProyectoCola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\MiProyectoCola\MiProyectoCola\obj\Debug\net8.0\MiProyectoCola.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\MiProyectoCola\MiProyectoCola\obj\Debug\net8.0\MiProyectoCola.AssemblyInfo.cs
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\MiProyectoCola\MiProyectoCola\obj\Debug\net8.0\MiProyectoCola.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\MiProyectoCola\MiProyectoCola\obj\Debug\net8.0\MiProyectoCola.dll
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\MiProyectoCola\MiProyectoCola\obj\Debug\net8.0\refint\MiProyectoCola.dll
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\MiProyectoCola\MiProyectoCola\obj\Debug\net8.0\MiProyectoCola.pdb
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\MiProyectoCola\MiProyectoCola\obj\Debug\net8.0\MiProyectoCola.genruntimeconfig.cache
+C:\Users\alumno\Desktop\BusquedaAlgoritmos\MiProyectoCola\MiProyectoCola\obj\Debug\net8.0\ref\MiProyectoCola.dll
